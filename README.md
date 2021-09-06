@@ -1,1 +1,1 @@
-# HackNU3.0
+# NeuralHacks 2.0
