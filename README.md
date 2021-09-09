@@ -1,4 +1,3 @@
-# NeuralHacks 2.0
 ## Inspiration
 
 Every allopathic doctor in India caters to at least 1,511 people, much higher than the World Health Organization’s norm of one doctor for every 1,000 people. The shortage of trained nurses is even direr, with a nurse-to-population ratio of 1:670 against the WHO norm of 1:300.
